@@ -1,0 +1,42 @@
+MODELLO F24
+Pagamento Unificato
+
+Contribuente:
+TRATTORIA DA NINO S.R.L.
+Via Vittorio Emanuele 88 - 90139 Palermo
+C.F./P.IVA: 05123456780
+
+Periodo di riferimento: Febbraio 2025
+Data versamento: 16/03/2025
+
+SEZIONE ERARIO
+
+Codice tributo    Rateazione/Mese/Anno    Importi a debito    Importi a credito
+6001              02/2025                       1.450,00               0,00
+(IVA mensile febbraio)
+
+1040              02/2025                         320,00               0,00
+(Ritenute lavoro dipendente)
+
+1001              02/2025                         185,00               0,00
+(Ritenute lavoro autonomo)
+
+TOTALE SEZIONE ERARIO                          1.955,00               0,00
+
+SEZIONE INPS
+
+Codice sede   Causale   Periodo               Importi a debito    Importi a credito
+2100          DM10      02/2025                       890,00               0,00
+
+TOTALE SEZIONE INPS                                   890,00               0,00
+
+SALDO FINALE: € 2.845,00 (debito)
+
+Modalità di pagamento: Addebito su conto corrente
+Banca: BANCA POPOLARE DI SICILIA
+IBAN: IT22 H056 9601 6000 0000 1234 567
+
+Estremi versamento:
+- Importo: € 2.845,00
+- Data scadenza: 17/03/2025
+- Esito: PAGATO

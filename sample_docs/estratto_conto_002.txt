@@ -1,0 +1,33 @@
+UNICREDIT - FILIALE PALERMO LIBERTA'
+Intestatario: EDILIZIA VERDI S.R.L.
+IBAN: IT80 J020 0804 6000 0001 0234 567
+
+ESTRATTO CONTO N. 02/2025
+Periodo: 01/02/2025 - 28/02/2025
+
+Saldo iniziale al 01/02/2025: € 28.340,15
+
+MOVIMENTI:
+
+Data       Descrizione                                          Importo
+02/02/25   Bonifico ricevuto - Lavori Condominio Aurora       +5.500,00
+03/02/25   F24 imposte gennaio                                -2.890,00
+04/02/25   Pagamento fornitore CEMENTI SUD SRL                -3.200,00
+05/02/25   Bonifico ricevuto - Sig. Lo Cascio acconto         +2.000,00
+07/02/25   Stipendio Operaio Russo G.                         -1.380,00
+07/02/25   Stipendio Operaio D'Amico S.                       -1.380,00
+08/02/25   Carburante distributore Q8 - autocarro              -180,50
+10/02/25   Bonifico ricevuto - Edil Service SAS               +1.800,00
+12/02/25   Assicurazione automezzi rata trimestrale             -890,00
+14/02/25   Pagamento fornitore FERRAMENTA SUD                 -1.250,30
+15/02/25   F24 ritenute dipendenti                              -680,00
+17/02/25   Bonifico ricevuto - Comune di Bagheria             +4.200,00
+18/02/25   Utenza ENEL cantiere via Crispi                      -245,80
+20/02/25   Pagamento fornitore IMPIANTI SICILIA                -2.100,00
+22/02/25   Bonifico ricevuto - Sig. Lo Cascio saldo           +3.500,00
+24/02/25   Commercialista Studio Rossi - fattura 89            -915,00
+25/02/25   Carburante distributore ENI                          -165,20
+27/02/25   Telefonia TIM business                                -89,90
+28/02/25   Commissioni e spese conto                             -32,50
+
+Saldo finale al 28/02/2025: € 29.940,95

@@ -1,0 +1,22 @@
+BANCA POPOLARE DI SICILIA - FILIALE 0142
+Intestatario: STUDIO ROSSI & ASSOCIATI
+IBAN: IT60 X054 2811 1010 0000 0123 456
+
+ESTRATTO CONTO N. 03/2025
+Periodo: 01/03/2025 - 31/03/2025
+
+Saldo iniziale al 01/03/2025: € 12.450,30
+
+MOVIMENTI:
+
+Data       Descrizione                                      Importo
+03/03/25   Bonifico in entrata da Verdi Edilizia SRL      +1.220,00
+05/03/25   Addebito utenza ENEL energia febbraio              -185,40
+10/03/25   Bonifico in entrata da Edicola Sport SNC          +488,00
+12/03/25   Pagamento POS Cartoleria Il Punto                 -242,66
+15/03/25   F24 imposte febbraio                            -1.567,00
+20/03/25   Bonifico in entrata da Trattoria Da Nino       +1.342,00
+25/03/25   Stipendio mensile dipendente Bianchi M.         -1.450,00
+28/03/25   Commissioni conto trimestrali                      -45,00
+
+Saldo finale al 31/03/2025: € 12.010,24
