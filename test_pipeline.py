@@ -45,19 +45,19 @@ def main():
         print(f"Confidence: {confidence:.2f}")
         print(f"Risultato:  {esito}")
 
-        if status == "ok":
+        if status == "revisione_manuale":
+            print("Estrazione saltata: confidence sotto soglia.")
+        else:
             campi = result["campi"]
             if campi.get("missing_fields"):
-                print(f"Campi mancanti: {campi['missing_fields']}")
+                 print(f"Campi mancanti: {campi['missing_fields']}")
             print("Campi estratti:")
             for campo, valore in campi["fields"].items():
                 print(f"  {campo}: {valore}")
             if campi.get("errors"):
                 print(f"Errori: {campi['errors']}")
             if campi.get("warnings"):
-                print(f"Warning: {campi['warnings']}")    
-        else:
-            print("Estrazione saltata: confidence sotto soglia.")
+                print(f"Warning: {campi['warnings']}")
 
         print("-" * 45)
 

@@ -29,7 +29,8 @@ class Classifier:
         text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
 
         try:
-            data = json.loads(text)
+            ",_ allora raw decode non restiuisce un solo valore, sono due e questo lo spacchetta quindi data e il json e _ e l'altra assegnazione"
+            data, _ = json.JSONDecoder().raw_decode(text)
         except json.JSONDecodeError as e:
             raise ValueError(f"La risposta del modello non è un JSON valido: {e}\nRisposta ricevuta: {text!r}")
 

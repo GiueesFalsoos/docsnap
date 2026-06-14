@@ -22,9 +22,12 @@ class Pipeline:
         categoria = classification["categoria"]
         campi = self.extractor.extract(document_text, categoria)
         validatore = self.validator.validate(campi)
-
+        if validatore["valid"]:
+             status = "ok"
+        else:
+             status = "non_valido"
         return {
-            "status": "ok",
+            "status": status,
             "categoria": categoria,
             "confidence": classification["confidence"],
             "campi": validatore,
