@@ -1,4 +1,3 @@
-"test della pipeline completa: classificazione + estrazione"
 import sys
 from pathlib import Path
 from dotenv import load_dotenv
@@ -35,6 +34,7 @@ def main():
         confidence = result["confidence"]
         status = result["status"]
         correct = categoria == expected
+        campi = result["campi"]
 
         ok += correct
         esito = "CORRETTO" if correct else f"ERRATO (atteso: {expected})"
@@ -52,13 +52,17 @@ def main():
             print("Campi estratti:")
             for campo, valore in campi["fields"].items():
                 print(f"  {campo}: {valore}")
+            if campi.get("errors"):
+                print(f"Errori: {campi['errors']}")
+            if campi.get("warnings"):
+                print(f"Warning: {campi['warnings']}")    
         else:
             print("Estrazione saltata: confidence sotto soglia.")
 
         print("-" * 45)
 
     print(f"\nAccuratezza classificazione: {ok}/{total} ({ok / total * 100:.0f}%)")
-
+    
 
 if __name__ == "__main__":
     main()
